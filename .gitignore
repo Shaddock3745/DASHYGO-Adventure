@@ -1,0 +1,5 @@
+bin/
+out/
+*.class
+.DS_Store
+__pycache__/
